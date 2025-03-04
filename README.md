@@ -6,6 +6,12 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm a chiropractor and mom to two boys
 
+  Tech Stack
+  Python, Go, Linux, Bash, Markdown
+  Git, Github
+  SQLite
+  Canva
+
 <!---
 cmonge21/cmonge21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
