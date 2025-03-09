@@ -37,8 +37,6 @@
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/carly-monge-822ba3a5/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.cmonge21)
-
   
 <!---
 cmonge21/cmonge21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
